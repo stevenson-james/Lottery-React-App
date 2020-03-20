@@ -4,7 +4,7 @@ set up at (https://github.com/stevenson-james/Lottery-Blockchain.git)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Image](lottery-react screenshot.png)
+![image](lottery-react-screenshot.png)
 
 ## Getting Started
 The functioning of this application requires a Metamask account and browser extension on the React App page to run
